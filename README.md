@@ -1,5 +1,5 @@
 # vagrant-wpscan
-Vagrant config for an Ubuntu box with WPScan
+Vagrant config for an Ubuntu box with [WPScan.org](http://wpscan.org/).
 
 # Instructions
 Open your terminal and run the following commands:
