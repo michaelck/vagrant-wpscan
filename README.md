@@ -22,3 +22,4 @@ You may now run WPScan. Example scan:
 
 For additonal documentation on running scans visit [WPScan.org](http://wpscan.org/).
 
+Warning: Some hosting companies don't take kindly to aggressive scanning. You may find your IP blacklisted if you appear to be malicious.
