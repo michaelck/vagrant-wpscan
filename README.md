@@ -1,7 +1,15 @@
 # vagrant-wpscan
 Vagrant config for an Ubuntu box with [WPScan.org](http://wpscan.org/).
 
+# Prerequisites
+
+* Vagrant
+* Virtual Box
+
 # Instructions
+
+Ensure Vagrant (http://www.vagrantup.com/) and Virutal Box (https://www.virtualbox.org/) are installed.
+
 Open your terminal and run the following commands:
 
 `$ git clone https://github.com/michaelck/vagrant-wpscan.git`
