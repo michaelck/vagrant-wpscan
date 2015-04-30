@@ -3,8 +3,8 @@ Vagrant config for an Ubuntu box with [WPScan.org](http://wpscan.org/).
 
 # Prerequisites
 
-* Vagrant
-* Virtual Box
+* [Vagrant](http://www.vagrantup.com/)
+* [Virtual Box](https://www.virtualbox.org/)
 
 # Instructions
 
